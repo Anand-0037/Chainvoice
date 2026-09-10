@@ -31,7 +31,6 @@ contracts/coverage/
 # OS & Editor-specific files
 .DS_Store
 Thumbs.db
-.vscode/
 .idea/
 
 # Environment Variables
@@ -44,3 +43,5 @@ contracts/.env.local
 contracts/.env.development
 contracts/.env.production
 .vite/
+config.bat
+node_modules
