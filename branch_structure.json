@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/usdt-support",
+    "gh-pages",
+    "main",
+    "origin",
+    "test"
+  ],
+  "parent": {
+    "fix/usdt-support": "main",
+    "gh-pages": "main",
+    "main": null,
+    "origin": "main",
+    "test": "main"
+  },
+  "order": [
+    "main",
+    "fix/usdt-support",
+    "gh-pages",
+    "origin",
+    "test"
+  ]
+}
